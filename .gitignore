@@ -1,0 +1,17 @@
+# Salesforce
+.sfdx/
+.sf/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependencies
+node_modules/
